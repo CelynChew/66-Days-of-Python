@@ -6,8 +6,8 @@
 ## Why 66 days?
 According to James Clear, the author of Atomic Habits, the average time for a habit to form is 66 days. Since the purpose of this challenge is to cultivate the habit of learning, this time frame seems fitting for this challenge.
 
-## Rules for this challenge:
+## Rules for this challenge
 1. Spend a minimum of 5 minutes a day learning Python
 2. Upload learnings onto GitHub
 
-## Reflection and thoughts
+## Reflection
