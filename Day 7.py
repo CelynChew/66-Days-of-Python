@@ -23,7 +23,7 @@ Number Code	   String
 9	           upper center
 10	           center
 """
-#plt.legend(['linear', 'cubic'], loc=10)
+#plt.legend(['linear', 'cubic'], loc = 10)
 #plt.show()
 
 
@@ -35,4 +35,3 @@ plt.plot([0, 1, 2, 3, 4], [0, 1, 8, 27, 64], label = "cubic")
 # .legend() command still needed
 #plt.legend()
 #plt.show()
-
