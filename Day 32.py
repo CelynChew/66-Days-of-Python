@@ -15,7 +15,7 @@ df = pd.DataFrame([
            'clinic_west']
 )
 
-# Making a new dataframe that only contains months 'February', 'April' and June
+# Making a new dataframe that only contains months 'February', 'April' and 'June'
 df2 = df.loc[[1, 3, 5]]
 print(df2)
 
