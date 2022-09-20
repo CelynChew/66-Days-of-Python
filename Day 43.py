@@ -22,6 +22,5 @@ df = pd.DataFrame({
 sns.set_style("darkgrid")
 sns.set_palette("pastel")
 
-# Add your code below:
 sns.boxplot(data=df, x='label', y='value')
 plt.show()
