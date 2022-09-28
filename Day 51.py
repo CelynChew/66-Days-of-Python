@@ -1,4 +1,4 @@
-# Aim: Finding euclidean distance
+# Aim: Finding manhattan distance
 
 def manhattan_distance(pt1, pt2):
   distance = 0
