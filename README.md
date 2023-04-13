@@ -9,5 +9,3 @@ According to James Clear, the author of Atomic Habits, the average time for a ha
 ## Rules for this challenge
 1. Spend a minimum of 5 minutes a day learning Python
 2. Upload learnings onto GitHub
-
-## Reflection
